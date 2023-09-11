@@ -7,7 +7,7 @@
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<a href="https://github.com/gwoneu/Java_study"><img src="https://img.shields.io/badge/Java-007396? style=flat&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
