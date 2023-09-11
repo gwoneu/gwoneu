@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=eunji%20github&fontSize=42&fontAlignY=37)
+
 <div align="center">
 
+<h2>Eunji</h2><br>
 <p> 📚 Studying 📚 </p>  
  
 </div>
