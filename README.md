@@ -17,7 +17,7 @@
 <a href="https://github.com/gwoneu/React_study"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></a>
  
 </div>
-<br><br>
+<br>
 <div align="center">
   		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwoneu&layout=compact">
 </div>
